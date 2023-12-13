@@ -1,1 +1,1 @@
-Repository destinaged to store learning concepts about c#
+Repository destinated to store learning concepts about c#
